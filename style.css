@@ -1,0 +1,47 @@
+body{
+    font-family: 'Poppins',sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.flexible-item{
+    display: flex;
+}
+.color-word{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-bottom: 50px;
+    margin-bottom: 100px;
+}
+.img1{
+    width: 80%;
+}
+.img2{
+    width: 50%;
+}
+.anchor-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(to right, rgb(245, 129, 62), rgb(252, 65, 32));
+    padding: 12px 25px;
+    border-radius: 30px;
+}
+.about-me-background-img{
+    background-image: url(/images/shapes/7.png);
+    background-repeat: no-repeat;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 60px;
+}
+.myRecipie-img{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    padding: 50px;
+    /* border: 15px solid white; */
+    box-shadow: -15px 15px 10px gray;
+}
